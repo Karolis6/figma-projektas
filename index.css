@@ -1,0 +1,57 @@
+*,
+*::after,
+*::before {
+  background: #e5e5e5;
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.logo {
+  width: 66px;
+  height: 48px;
+  background: #ffffff;
+  margin-top: 70px;
+  margin-left: 196px;
+  background-color: #e5e5e5;
+}
+.logo-text {
+  display: inline;
+  font-weight: 600;
+  width: 123px;
+  height: 15px;
+  margin-top: 92px;
+}
+ul {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  margin: 15px;
+}
+.tenis {
+  display: flex;
+}
+.button1 {
+  width: 350px;
+  height: 73px;
+  left: 180px;
+  top: 566px;
+  background-color: green;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 125.5%;
+  border: none;
+  display: flex;
+  justify-content: center;
+}
+.button {
+  width: 93px;
+  height: 40px;
+  display: flex;
+}
