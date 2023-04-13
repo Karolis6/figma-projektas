@@ -1,3 +1,0 @@
-# figma
-# figma
-# figma-projektas
