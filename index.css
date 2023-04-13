@@ -257,7 +257,7 @@ a.button-large {
 }
 
 .dots {
-  background-image: url(./images/donts.png);
+  background-image: url(./nuotraukos/Dots\ 8px.1.svg);
   width: 214px;
   height: 214px;
   position: absolute;
@@ -472,7 +472,7 @@ textarea {
   .hero-block {
     padding-top: 100px;
     padding-bottom: 89px;
-    background-image: url(./images/Group\ 2574.png);
+    background-image: url(./nuotraukos/Group\ 2574.png);
     background-repeat: no-repeat;
     background-position: 167% 50%;
     background-size: contain;
