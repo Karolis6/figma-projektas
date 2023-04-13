@@ -211,8 +211,6 @@ a.button-large {
   width: 60%;
 }
 
-/* second wrap */
-
 .second-container {
   display: flex;
   flex-direction: column;
@@ -277,8 +275,6 @@ a.button-large {
   padding-bottom: 20px;
 }
 
-/* third */
-
 .third-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -290,8 +286,6 @@ a.button-large {
   flex-direction: column;
   justify-content: center;
 }
-
-/* fourth */
 
 .fourth-container {
   display: flex;
